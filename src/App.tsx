@@ -1,11 +1,7 @@
 import React from "react";
 
-import './App.css';
+import "./App.css";
 
 export const App: React.FC = () => {
-  return (
-    <div className="app">
-     
-    </div>
-  );
-}
+	return <div className="app"></div>;
+};
